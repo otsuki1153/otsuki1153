@@ -1,5 +1,15 @@
-## Hi there 👋
+## Salve 👋 Meu Nome é Henrique(mais conhecido Como Henryy) 🤓
 
+-🎓 Sou universitário estudando na área de TI o curso de Tecnologia em Análise e Desenvolvimento de Sistemas.
+  <img loading="lazy" src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/senac-pe.png" width="40" height="40"/>
+
+-🖥️ Sou estagiário em uma empresa de automação residencial chamada Smartly no Setor de Firmware.
+  <img loading="lazy" src="https://media.licdn.com/dms/image/v2/C4D1BAQE4Vdctd5BJ8w/company-background_10000/company-background_10000/0/1594827309592/smartly_fabricao_de_dispositivos_inteligentes_ltda_cover?e=2147483647&v=beta&t=HTdNbnKJDNfcV2t14ohm8jrbnXNqdtKDSW6OycescXw" width="40" height="40"/>
+
+-🕹️💻 Venho aprendendo Desenvolvimento de Dispositivos Inteligentes por meio do Framework de Arduino baseado em C++ e Desenvolvimentos de Jogos por meio da Engine chamada Godot.
+  <img loading="lazy" src="https://peteletrica.uff.br/wp-content/uploads/sites/509/2022/10/Arduino_Logo.svg_.png" width="40" height="40"/><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" width="40" height="40"/>  
+
+-✍🏻 Estou sempre tentando aprender coisas novas no mundo da tecnologia, e sempre estudando por paixão!!!
 <!--
 **otsuki1153/otsuki1153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
