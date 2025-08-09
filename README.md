@@ -9,7 +9,7 @@
 <h1>-🕹️💻 Venho aprendendo Desenvolvimento de Dispositivos Inteligentes por meio do Framework de Arduino baseado em C++ e Desenvolvimentos de Jogos por meio da Engine chamada Godot. </h1>h1><br>
   <img loading="lazy" src="https://peteletrica.uff.br/wp-content/uploads/sites/509/2022/10/Arduino_Logo.svg_.png" width="100" height="80"/><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" width="80" height="80"/>  
 
--<h1>✍🏻 Estou sempre tentando aprender coisas novas no mundo da tecnologia, e sempre estudando por paixão!!!</h1>
+<h1>-✍🏻 Estou sempre tentando aprender coisas novas no mundo da tecnologia, e sempre estudando por paixão!!!</h1>
 <!--
 **otsuki1153/otsuki1153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
