@@ -1,7 +1,11 @@
 <h1 align="center">Henrique "Henryy"</h1>
 
 <p align="center">
-  Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
+  Desenvolvedor em formação
+</p>
+
+<p align="center">
+  Análise e Desenvolvimento de Sistemas
 </p>
 
 <p align="center">
@@ -13,25 +17,25 @@
 <h2>Sobre mim</h2>
 
 <p>
-Sou universitário na área de Tecnologia da Informação, com foco em desenvolvimento de software e constante evolução técnica.
+Sou estudante de Tecnologia da Informação com interesse em desenvolvimento de software e construção de sistemas.
 </p>
 
 <p>
-Atualmente estou em busca de oportunidades para aplicar meus conhecimentos na prática, contribuir com projetos reais e evoluir como desenvolvedor.
+Tenho explorado diferentes áreas da tecnologia, com foco em entender tanto o funcionamento interno dos sistemas quanto a criação de aplicações interativas e dispositivos inteligentes.
+</p>
+
+<p>
+Atualmente estou em busca de oportunidades para aplicar meus conhecimentos na prática e evoluir como desenvolvedor.
 </p>
 
 <br>
 
-<h2>Áreas de interesse</h2>
-
-<p>
-Tenho explorado diferentes áreas da tecnologia, com destaque para:
-</p>
+<h2>Áreas de estudo</h2>
 
 <ul>
-  <li>Desenvolvimento Back-End</li>
-  <li>Desenvolvimento de dispositivos inteligentes</li>
-  <li>Desenvolvimento de jogos</li>
+  <li><b>Desenvolvimento de jogos</b> — lógica, física e arquitetura utilizando Godot</li>
+  <li><b>IoT e sistemas embarcados</b> — desenvolvimento com Arduino e C++</li>
+  <li><b>Back-End</b> — estruturação de servidores, APIs e organização de sistemas</li>
 </ul>
 
 <br>
@@ -39,30 +43,57 @@ Tenho explorado diferentes áreas da tecnologia, com destaque para:
 <h2>Tecnologias e ferramentas</h2>
 
 <p align="left">
-  <img src="https://peteletrica.uff.br/wp-content/uploads/sites/509/2022/10/Arduino_Logo.svg_.png" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" width="80"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
 </p>
 
-<p>
-Utilizo o framework Arduino (C++) para desenvolvimento de dispositivos inteligentes e a engine Godot para criação de jogos.
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
 </p>
 
 <br>
 
-<h2>Objetivo</h2>
+<h2>Estatísticas do GitHub</h2>
 
-<p>
-Busco constantemente aprender novas tecnologias e aprofundar meus conhecimentos, sempre com foco em construir soluções eficientes e bem estruturadas.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otsuki1153&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otsuki1153&layout=compact&theme=tokyonight"/>
 </p>
 
-<p>
-Tenho grande interesse em evoluir profissionalmente na área de desenvolvimento e participar de projetos que gerem impacto real.
-</p>
+<br>
+
+<h2>Projetos em destaque</h2>
+
+<ul>
+  <li>
+    <b>Grupo de Estudos Back-End</b><br>
+    Repositório com experimentos e estudos voltados à construção de sistemas e lógica de servidor.
+  </li>
+  
+  <li>
+    <b>Projetos com Arduino</b><br>
+    Desenvolvimento de dispositivos inteligentes e automação utilizando C++.
+  </li>
+
+  <li>
+    <b>Projetos com Godot</b><br>
+    Criação de jogos com foco em mecânicas, física e arquitetura.
+  </li>
+</ul>
 
 <br>
 
 <h2>Contato</h2>
 
 <p>
-Caso queira entrar em contato ou conhecer mais sobre meus projetos, fique à vontade para explorar meus repositórios.
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+<p>
+  Email: henrique.m.nobrega06@email.com
 </p>
