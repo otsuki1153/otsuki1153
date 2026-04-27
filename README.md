@@ -89,7 +89,7 @@ Atualmente estou em busca de oportunidades para aplicar meus conhecimentos na pr
 <h2>Contato</h2>
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/henrique-matheus-nobrega-4047502a3/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
