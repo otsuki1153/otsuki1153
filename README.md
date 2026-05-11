@@ -111,9 +111,8 @@ My main areas of study are:
 <h2>Snake Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760697-0f8f5d16-2cfd-4a79-bc3f-f70d4b5f0b2f.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-cc7f4f0d-0bfb-4f87-b77f-6d3ccecf6e2d.gif" width="450" />
 </p>
-
 <hr>
 
 <h2>Projetos em Destaque | Featured Projects</h2>
