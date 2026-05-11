@@ -111,7 +111,7 @@ My main areas of study are:
 <h2>Snake Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/otsuki1153/otsuki1153/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+  <img src="https://user-images.githubusercontent.com/74038190/213760697-0f8f5d16-2cfd-4a79-bc3f-f70d4b5f0b2f.gif" width="300" />
 </p>
 
 <hr>
