@@ -108,12 +108,9 @@ My main areas of study are:
 
 <hr>
 
-<h2>Snake Contribution Graph</h2>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-cc7f4f0d-0bfb-4f87-b77f-6d3ccecf6e2d.gif" width="450" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=80&section=header&text=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&fontSize=24&fontColor=ffffff"/>
 </p>
-<hr>
 
 <h2>Projetos em Destaque | Featured Projects</h2>
 
