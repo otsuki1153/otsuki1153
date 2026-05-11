@@ -1,9 +1,3 @@
-<h1 align="center">Henrique "Henryy"</h1>
-
-<p align="center">
-  Desenvolvedor em formação
-</p>
-
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Henrique%20%22Henryy%22&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Development%20%7C%20IoT%20%7C%20Back-End&descAlignY=60&descSize=20" />
