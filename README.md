@@ -62,12 +62,12 @@ Atualmente estou em busca de oportunidades para aplicar meus conhecimentos na pr
   <img
     height="180em"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=otsuki1153&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=otsuki1153&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   <img
     height="180em"
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=otsuki1153&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=otsuki1153&layout=compact&theme=tokyonight"
   />
 </p>
 
