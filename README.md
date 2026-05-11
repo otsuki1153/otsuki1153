@@ -109,7 +109,7 @@ My main areas of study are:
 <hr>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=80&section=header&text=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&fontSize=24&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=100&section=footer"/>
 </p>
 
 <h2>Projetos em Destaque | Featured Projects</h2>
