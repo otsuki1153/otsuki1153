@@ -102,7 +102,11 @@ passionate about software development and building innovative solutions.
 <h2>Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otsuki1153&theme=tokyo-night" alt="GitHub Contribution Graph"/>
+  <img
+    src="https://ghchart.rshah.org/2563eb/otsuki1153"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 <hr>
