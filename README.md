@@ -88,11 +88,11 @@ passionate about software development and building innovative solutions.
 
 <hr>
 
-<h2>GitHub Trophies</h2>
+<!-- <h2>GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=otsuki1153&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
+</p> -->
 
 <hr>
 
