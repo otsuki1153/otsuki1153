@@ -82,8 +82,11 @@ passionate about software development and building innovative solutions.
 <h2>Estatísticas do GitHub | GitHub Statistics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otsuki1153&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otsuki1153&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas"/>
+  <img
+    src="https://ghchart.rshah.org/2563eb/otsuki1153"
+    alt="Gráfico de contribuições do GitHub"
+    width="100%"
+  />
 </p>
 
 <hr>
