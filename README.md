@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Henrique%20%22Henryy%22&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Development%20%7C%20IoT%20%7C%20Back-End&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f172a,100:2563eb&height=220&section=header&text=Henrique%20%22Henryy%22&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Development%20%7C%20IoT%20%7C%20Back-End&descAlignY=60&descSize=20" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Technology+in+Analysis+and+Systems+Development+Student;Desenvolvimento+de+Jogos+%7C+Game+Development;IoT+e+Sistemas+Embarcados+%7C+IoT+and+Embedded+Systems;Back-End+Development;Sempre+aprendendo+%7C+Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Technology+in+Analysis+and+Systems+Development+Student;Desenvolvimento+de+Jogos+%7C+Game+Development;IoT+e+Sistemas+Embarcados+%7C+IoT+and+Embedded+Systems;Back-End+Development;Sempre+aprendendo+%7C+Always+Learning" />
 </p>
 
 <h2>Sobre Mim | About Me</h2>
@@ -20,13 +20,9 @@ I am a <strong>Technology in Analysis and Systems Development</strong> student,
 passionate about software development and building innovative solutions.
 </p>
 
-<p>
-Minhas principais áreas de estudo são:
-</p>
+<p>Minhas principais áreas de estudo são:</p>
 
-<p>
-My main areas of study are:
-</p>
+<p>My main areas of study are:</p>
 
 <ul>
   <li><strong>Desenvolvimento de Jogos | Game Development</strong></li>
@@ -39,7 +35,7 @@ My main areas of study are:
 <h2>Formação Acadêmica | Academic Background</h2>
 
 <p align="center">
-  <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/senac-pe.png" width="180"/>
+  <img src="https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/senac-pe.png" width="180" alt="Logo do Senac"/>
 </p>
 
 <p align="center">
@@ -54,31 +50,31 @@ My main areas of study are:
 <h3>Game Development</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GDScript-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"/>
+  <img src="https://img.shields.io/badge/GDScript-111111?style=for-the-badge" alt="GDScript"/>
 </p>
 
 <h3>IoT and Embedded Systems</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
 <h3>Back-End Development</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 <h3>Ferramentas | Tools</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
 <hr>
@@ -86,8 +82,8 @@ My main areas of study are:
 <h2>Estatísticas do GitHub | GitHub Statistics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=otsuki1153&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=otsuki1153&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otsuki1153&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otsuki1153&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas"/>
 </p>
 
 <hr>
@@ -95,7 +91,7 @@ My main areas of study are:
 <h2>GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otsuki1153&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=otsuki1153&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 <hr>
@@ -103,13 +99,13 @@ My main areas of study are:
 <h2>Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otsuki1153&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otsuki1153&theme=tokyo-night" alt="GitHub Contribution Graph"/>
 </p>
 
 <hr>
 
 <p align="center">
-  <img src="https://webpets-flame.vercel.app/generated/fox/red_run_8fps.gif"/>
+  <img src="https://webpets-flame.vercel.app/generated/fox/red_run_8fps.gif" alt="Raposa animada em pixel art"/>
 </p>
 
 <h2>Projetos em Destaque | Featured Projects</h2>
@@ -124,10 +120,10 @@ My main areas of study are:
 <h2>Contato | Contact</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/henrique-matheus-nobrega-4047502a3?">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/henrique-matheus-nobrega-4047502a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:henrique.m.nobrega06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
