@@ -1,3 +1,4 @@
+
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Henrique%20%22Henryy%22&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20Development%20%7C%20IoT%20%7C%20Back-End&descAlignY=60&descSize=20" />
@@ -5,7 +6,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Technology+in+Analysis+and+Systems+Development+Student;Desenvolvimento+de+Jogos+%7C+Game+Development;IoT+e+Sistemas+Embarcados+%7C+IoT+and+Embedded+Systems;Back-End+Development;Sempre+aprendendo+%7C+Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Technology+in+Analysis+and+Systems+Development+Student;Desenvolvimento+de+Jogos+%7C+Game+Development;IoT+e+Sistemas+Embarcados+%7C+IoT+and+Embedded+Systems;Back-End+Development;Emula%C3%A7%C3%A3o+e+Baixo+N%C3%ADvel+%7C+Emulation+and+Low-Level;Sempre+aprendendo+%7C+Always+Learning" />
 </p>
 
 <h2>Sobre Mim | About Me</h2>
@@ -21,13 +22,13 @@ passionate about software development and building innovative solutions.
 </p>
 
 <p>Minhas principais áreas de estudo são:</p>
-
 <p>My main areas of study are:</p>
 
 <ul>
   <li><strong>Desenvolvimento de Jogos | Game Development</strong></li>
   <li><strong>IoT e Sistemas Embarcados | IoT and Embedded Systems</strong></li>
   <li><strong>Back-End Development</strong></li>
+  <li><strong>Emulação e Desenvolvimento de Baixo Nível | Emulation and Low-Level Development</strong></li>
 </ul>
 
 <hr>
@@ -59,6 +60,14 @@ passionate about software development and building innovative solutions.
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+</p>
+
+<h3>Emulation and Low-Level Development</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Computer%20Architecture-34495E?style=for-the-badge" alt="Computer Architecture"/>
 </p>
 
 <h3>Back-End Development</h3>
@@ -66,6 +75,7 @@ passionate about software development and building innovative solutions.
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 <h3>Ferramentas | Tools</h3>
@@ -75,6 +85,7 @@ passionate about software development and building innovative solutions.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 <hr>
@@ -85,14 +96,6 @@ passionate about software development and building innovative solutions.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otsuki1153&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otsuki1153&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas"/>
 </p>
-
-<hr>
-
-<!-- <h2>GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otsuki1153&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p> -->
 
 <hr>
 
@@ -115,8 +118,20 @@ passionate about software development and building innovative solutions.
 <h2>Projetos em Destaque | Featured Projects</h2>
 
 <ul>
-  <li><strong>Grupo de Estudos Back-End</strong> — Repositório colaborativo para aprendizado de desenvolvimento server-side.</li>
-  <li><strong>Projetos com Arduino</strong> — Protótipos e sistemas de automação.</li>
+  <li>
+    <strong>CHIP-8 Emulator & Disassembler (C)</strong> — 
+    Projeto em desenvolvimento voltado à emulação de uma arquitetura virtual,
+    explorando conceitos de arquitetura de computadores, memória, registradores,
+    ciclo de execução de instruções e decodificação de opcodes.
+  </li>
+  <li>
+    <strong>Grupo de Estudos Back-End</strong> — 
+    Repositório colaborativo para aprendizado de desenvolvimento server-side.
+  </li>
+  <li>
+    <strong>Projetos com Arduino e ESP32</strong> — 
+    Protótipos e sistemas envolvendo automação, IoT e sistemas embarcados.
+  </li>
 </ul>
 
 <hr>
